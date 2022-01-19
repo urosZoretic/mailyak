@@ -20,6 +20,7 @@ A simple, easy to use email library for Go (golang).
 - Production ready - several million emails sent in a production environment
 - SMTP over TLS support, with automatic STARTTLS upgrades for plaintext
   connections
+- without TLS we dont check for STARTTLS header no option for that currently
 
 # Installation
 
