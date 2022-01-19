@@ -1,3 +1,3 @@
-module github.com/urosZoretic/mailyak
+module github.com/domodwyer/mailyak/v3
 
-go 1.17
+go 1.12
